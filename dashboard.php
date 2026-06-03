@@ -367,12 +367,14 @@ include("config.php");
 </head>
 
 <body>
-  <?php include("navbar.php"); ?>
+    <?php include("navbar.php"); ?>
 
 
+  <a href="login.php">
 
-    
-
+</a>
+</a>
+     
     </div>
   </nav>
 
@@ -390,9 +392,7 @@ include("config.php");
 
       <div class="hero-buttons">
         <a href="ftrial.php">
-  <a href="trial.php">
     <button class="ftrial-btn">Start Free Trial</button>
-</a>
 </a>
         <a href="watchdemon.php">
   <a href="watchdemon.php">
